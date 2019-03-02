@@ -1,0 +1,18 @@
+services:
+  - docker
+before_install:
+  - docker pull jojomi/hugo
+script:
+  - docker run --rm --publish-all --volume $TRAVIS_BUILD_DIR/src:/src --volume $TRAVIS_BUILD_DIR/docs:/output jojomi/hugo
+deploy:
+  provider: pages
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN  # Set in travis-ci.org dashboard, marked secure
+  email: $GITHUB_EMAIL
+  name: $GITHUB_USERNAME
+  verbose: true
+  keep-history: true
+  local-dir: docs
+  target_branch: master  # branch contains blog content
+  on:
+    branch: master  # branch contains Hugo generator code

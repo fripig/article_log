@@ -7,3 +7,6 @@
 想看篩選過的可以到
 [twitter](https://twitter.com/fripig)
 不過也有些我的碎碎唸就是了
+
+
+docker run --rm   --volume ${pwd}:/src    jojomi/hugo hugo new site src
