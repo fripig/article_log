@@ -15,4 +15,4 @@ deploy:
   local-dir: docs
   target_branch: master  # branch contains blog content
   on:
-    branch: master  # branch contains Hugo generator code
+    branch: blog  # branch contains Hugo generator code
