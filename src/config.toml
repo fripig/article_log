@@ -15,16 +15,8 @@ googleAnalytics = ""
   quality = 99
 
 [params]
-  description = "這邊主要目的是紀錄
-
-                 並沒有做太多篩選的動作"
-  homeMetaContent = "這邊主要目的是紀錄
-
-                     並沒有做太多篩選的動作
-
-                     想看篩選過的可以到
-                     [twitter](https://twitter.com/fripig)
-                     不過也有些我的碎碎唸就是了"
+  description = "這邊主要目的是紀錄,並沒有做太多篩選的動作"
+  homeMetaContent = "這邊主要目的是紀錄,並沒有做太多篩選的動作,想看篩選過的可以到,[twitter](https://twitter.com/fripig),不過也有些我的碎碎唸就是了"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2019"
   codePenUser = "fripig"
