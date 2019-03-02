@@ -1,9 +1,9 @@
-baseURL = "https://example.com"
-languageCode = "en-us"
-defaultContentLanguage = "en"
-title = "Cupper"
+baseURL = "https://fripig.github.io/article_log/"
+languageCode = "zh-TW"
+defaultContentLanguage = "zh-TW"
+title = "這邊只是備份"
 theme = "cupper-hugo-theme"
-googleAnalytics = "UA-123456789-1"
+googleAnalytics = ""
 
 [taxonomies]
   tag = "tags"
@@ -15,12 +15,19 @@ googleAnalytics = "UA-123456789-1"
   quality = 99
 
 [params]
-  description = "An accessibility-friendly Hugo theme, ported from the [original Cupper](https://github.com/ThePacielloGroup/cupper) project."
-  homeMetaContent = "An accessibility-friendly Hugo theme, ported from the original Cupper project."
-  footer = "Made with [Hugo](https://gohugo.io/). Themed by [Cupper](https://github.com/zwbetz-gh/cupper-hugo-theme). Deployed to [Netlify](https://www.netlify.com/)."
+  description = "這邊主要目的是紀錄
+
+                 並沒有做太多篩選的動作"
+  homeMetaContent = "這邊主要目的是紀錄
+
+                     並沒有做太多篩選的動作
+
+                     想看篩選過的可以到
+                     [twitter](https://twitter.com/fripig)
+                     不過也有些我的碎碎唸就是了"
   # For more date formats see https://gohugo.io/functions/format/
-  dateFormat = "Jan 2, 2006"
-  codePenUser = "someUser"
+  dateFormat = "Jan 2, 2019"
+  codePenUser = "fripig"
 
 [menu]
   [[menu.nav]]
