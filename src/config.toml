@@ -2,7 +2,7 @@ baseURL = "https://fripig.github.io/article_log/"
 languageCode = "zh-TW"
 defaultContentLanguage = "zh-TW"
 title = "這邊只是備份"
-theme = "cupper-hugo-theme"
+theme = "cupper-hugo-theme-custom"
 googleAnalytics = ""
 
 [taxonomies]
