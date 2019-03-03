@@ -3,12 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/tags/</loc>
+    <loc>https://fripig.github.io/article_log/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://fripig.github.io/article_log/</loc>
     <priority>0</priority>
   </url>
   
