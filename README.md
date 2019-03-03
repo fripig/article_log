@@ -8,5 +8,12 @@
 [twitter](https://twitter.com/fripig)
 不過也有些我的碎碎唸就是了
 
-
+```
 docker run --rm   --volume ${pwd}:/src    jojomi/hugo hugo new site src
+```
+
+
+
+```powershell
+docker run --rm --env-file .env --publish-all --volume %cd%/src:/src --volume %cd%/docs:/output jojomi/hugo
+```

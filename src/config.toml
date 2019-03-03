@@ -9,7 +9,7 @@ googleAnalytics = ""
   tag = "tags"
 
 [permalinks]
-  post = "/:filename/"
+  post = "/:year/:month/:filename/"
 
 [imaging]
   quality = 99
