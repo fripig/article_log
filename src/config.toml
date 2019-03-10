@@ -20,6 +20,8 @@ googleAnalytics = "UA-51024970-3"
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat = "Jan 2, 2006"
   codePenUser = "fripig"
+  ISO8601 = "2006-01-02T15:04:05JST"
+  author = "fripig"
 
 [menu]
   [[menu.nav]]
