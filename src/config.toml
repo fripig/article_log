@@ -3,7 +3,7 @@ languageCode = "zh-TW"
 defaultContentLanguage = "zh-TW"
 title = "這邊只是備份"
 theme = "cupper-hugo-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-51024970-3"
 
 [taxonomies]
   tag = "tags"
