@@ -2,7 +2,7 @@ baseURL = "https://fripig.github.io/article_log/"
 languageCode = "zh-TW"
 defaultContentLanguage = "zh-TW"
 title = "這邊只是備份"
-theme = "cupper-hugo-theme-custom"
+theme = "cupper-hugo-theme"
 googleAnalytics = ""
 
 [taxonomies]
@@ -35,8 +35,8 @@ googleAnalytics = ""
     url = "/tags/"
     weight = 3
   [[menu.nav]]
-    name = "About"
-    url = "/about/"
+    name = "Log"
+    url = "/log/"
     weight = 4
   [[menu.nav]]
     name = "RSS"
