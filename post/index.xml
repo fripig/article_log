@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on 這邊只是備份</title>
+    <link>https://fripig.github.io/article_log/post/</link>
+    <description>Recent content in Posts on 這邊只是備份</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fripig.github.io/article_log/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>玩一下hugo跟travis</title>
+      <link>https://fripig.github.io/article_log/2019/03/hugo/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/2019/03/hugo/</guid>
+      <description>想說每天看的文章留於流水帳也不好
+所以乾脆就在這個git弄個網站擺著也好
+剛好最近看到有人說hugo編譯的很快
+就順便拿來配合docker跟travis一起玩了
+ 因為我懶的在我電腦弄golang的環境 所以用docker比較快
+ </description>
+    </item>
+    
+  </channel>
+</rss>
