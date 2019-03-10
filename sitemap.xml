@@ -3,12 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://fripig.github.io/article_log/tags/</loc>
-    <priority>0</priority>
+    <loc>https://fripig.github.io/article_log/log/2019/03/2019-03-10/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://fripig.github.io/article_log/</loc>
+    <lastmod>2019-03-02T18:27:58+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/tags/javascript/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/log/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/tags/mysql/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/tags/python/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/tags/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/tags/%E7%88%AC%E8%9F%B2/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

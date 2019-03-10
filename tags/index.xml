@@ -6,9 +6,46 @@
     <description>Recent content in Tags on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fripig.github.io/article_log/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Javascript</title>
+      <link>https://fripig.github.io/article_log/tags/javascript/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mysql</title>
+      <link>https://fripig.github.io/article_log/tags/mysql/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/mysql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://fripig.github.io/article_log/tags/python/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>爬蟲</title>
+      <link>https://fripig.github.io/article_log/tags/%E7%88%AC%E8%9F%B2/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/%E7%88%AC%E8%9F%B2/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
