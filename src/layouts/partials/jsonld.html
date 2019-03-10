@@ -6,12 +6,20 @@
         "@context" : "http://schema.org",
         "@type" : "BlogPosting",
         "articleSection" : "{{ .Section }}",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "{{.Site.BaseURL }}"
+        },
         "name" : "{{ .Title }}",
         "headline" : "{{ .Title }}",
         "description" : "{{ if .Description }}{{ .Description }}{{ else }}{{if .IsPage}}{{ .Summary }}{{ end }}{{ end }}",
         "inLanguage" : "zh-TW",
         "author" : "{{ .Params.author  | default $.Site.Params.author}}",
         "creator" : "{{ .Params.author | default $.Site.Params.author}}",
+        "publisher": {
+            "@type": "Person",
+            "name": "{{ .Params.author | default $.Site.Params.author}}"
+        },
         "accountablePerson" : "{{ .Params.author | default $.Site.Params.author}}",
         "copyrightHolder" : "{{ .Params.author | default $.Site.Params.author}}",
         "copyrightYear" : "{{ .Date.Format "2006" }}",
@@ -19,8 +27,9 @@
         "dateModified" : "{{ .Date.Format $.Site.Params.ISO8601 }}",
         "url" : "{{ .Permalink }}",
         "wordCount" : "{{ .WordCount }}",
-        "image" : [ {{ range $i, $e := .Params.images }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} ],
-        "keywords" : [ {{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }} ]
+        "image" : {{ .Params.image | jsonify }},
+        "keywords" : {{ .Params.tags | jsonify }}
+
     }
 </script>
 {{ end }}
