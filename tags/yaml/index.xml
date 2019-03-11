@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Logs on 這邊只是備份</title>
-    <link>https://fripig.github.io/article_log/log/</link>
-    <description>Recent content in Logs on 這邊只是備份</description>
+    <title>Yaml on 這邊只是備份</title>
+    <link>https://fripig.github.io/article_log/tags/yaml/</link>
+    <description>Recent content in Yaml on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fripig.github.io/article_log/log/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fripig.github.io/article_log/tags/yaml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,17 +22,6 @@
 Laravel 下 Elasticsearch 使用 接下來可能會用到 所以備用
 yq: Command-line YAML/XML processor 跟jq一樣是備而不用的東西
 Vuex Unit Test：Action 難得有範例</description>
-    </item>
-    
-    <item>
-      <title>2019-03-10 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-10/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-10/</guid>
-      <description>【译】MySQL挑战：建立10万连接 雖然遇到的機會不大 但是會調的參數還算是蠻常遇到的
-PathFinding.js 視覺呈現看起來很有趣
-CriseLYJ/awesome-python-login-model 算是可以研究一些爬蟲的範例</description>
     </item>
     
   </channel>
