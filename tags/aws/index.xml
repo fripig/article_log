@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Mysql on 這邊只是備份</title>
-    <link>https://fripig.github.io/article_log/tags/mysql/</link>
-    <description>Recent content in Mysql on 這邊只是備份</description>
+    <title>Aws on 這邊只是備份</title>
+    <link>https://fripig.github.io/article_log/tags/aws/</link>
+    <description>Recent content in Aws on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fripig.github.io/article_log/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fripig.github.io/article_log/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -22,17 +22,6 @@ vue-cli3 项目框架优化(OneLine周分享) vue-cli3建立出來的環境還�
 AWS 對 Elastic Stack 實作免費的開源版本 Open Distro for Elasticsearch 期待
 MySQL 避坑宝典 &amp;ndash; 来自小米的开源工具 整理了不少實用的小訣竅 適合沒時間的人看
 Docker volumes not mounted when using docker:dind 解決怎麼在gitlab-ci 使用 docker in docker mount的設定</description>
-    </item>
-    
-    <item>
-      <title>2019-03-10 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-10/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-10/</guid>
-      <description>【译】MySQL挑战：建立10万连接 雖然遇到的機會不大 但是會調的參數還算是蠻常遇到的
-PathFinding.js 視覺呈現看起來很有趣
-CriseLYJ/awesome-python-login-model 算是可以研究一些爬蟲的範例</description>
     </item>
     
   </channel>

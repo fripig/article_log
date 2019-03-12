@@ -6,10 +6,23 @@
     <description>Recent content in Elasticsearch on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fripig.github.io/article_log/tags/elasticsearch/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-03-12 推薦文章</title>
+      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-12/</link>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-12/</guid>
+      <description>干货 | Elasticsearch方案选型必须了解的10件事！ 內容簡潔 有講到重點 不過原因還是要自己補一下
+vue-cli3 项目框架优化(OneLine周分享) vue-cli3建立出來的環境還是要微調才會更緊湊 讓網頁讀取更快的
+AWS 對 Elastic Stack 實作免費的開源版本 Open Distro for Elasticsearch 期待
+MySQL 避坑宝典 &amp;ndash; 来自小米的开源工具 整理了不少實用的小訣竅 適合沒時間的人看
+Docker volumes not mounted when using docker:dind 解決怎麼在gitlab-ci 使用 docker in docker mount的設定</description>
+    </item>
     
     <item>
       <title>2019-03-11 推薦文章</title>
