@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fripig.github.io/article_log/log/2019/03/2019-03-13/</loc>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/log/2019/03/2019-03-12/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
   </url>
@@ -29,19 +34,19 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/aws/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/docker/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/elasticsearch/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -65,13 +70,13 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/log/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/mysql/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -89,7 +94,7 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -101,7 +106,7 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/vue/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
