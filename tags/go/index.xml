@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on 這邊只是備份</title>
-    <link>https://fripig.github.io/article_log/tags/python/</link>
-    <description>Recent content in Python on 這邊只是備份</description>
+    <title>Go on 這邊只是備份</title>
+    <link>https://fripig.github.io/article_log/tags/go/</link>
+    <description>Recent content in Go on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fripig.github.io/article_log/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fripig.github.io/article_log/tags/go/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,17 +20,6 @@
       <description> laravel 批次刪除job的作法 可以指定queue去刪除還蠻方便的 但就個人使用上 是覺得應該找工具看能不能把指定queue的特定job migrate到其他的queue 這點之前還沒看到現成的
 为什么Python不用设计模式？ 標題有點誇張啦 只是不同語言有不同解法而已 但核心概念是一樣的 另外本文是寫的蠻有趣的
 影响Linux发展的四位天才黑客 使用go mod结合docker分层缓存进行自动CI/CD </description>
-    </item>
-    
-    <item>
-      <title>2019-03-10 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-10/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-10/</guid>
-      <description>【译】MySQL挑战：建立10万连接 雖然遇到的機會不大 但是會調的參數還算是蠻常遇到的
-PathFinding.js 視覺呈現看起來很有趣
-CriseLYJ/awesome-python-login-model 算是可以研究一些爬蟲的範例</description>
     </item>
     
   </channel>

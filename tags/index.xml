@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fripig.github.io/article_log/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Aws</title>
       <link>https://fripig.github.io/article_log/tags/aws/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/aws/</guid>
       <description></description>
@@ -32,9 +32,18 @@
     <item>
       <title>Elasticsearch</title>
       <link>https://fripig.github.io/article_log/tags/elasticsearch/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/elasticsearch/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://fripig.github.io/article_log/tags/go/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/go/</guid>
       <description></description>
     </item>
     
@@ -59,16 +68,25 @@
     <item>
       <title>Laravel</title>
       <link>https://fripig.github.io/article_log/tags/laravel/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/laravel/</guid>
       <description></description>
     </item>
     
     <item>
+      <title>Linux</title>
+      <link>https://fripig.github.io/article_log/tags/linux/</link>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mysql</title>
       <link>https://fripig.github.io/article_log/tags/mysql/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/mysql/</guid>
       <description></description>
@@ -77,7 +95,7 @@
     <item>
       <title>Python</title>
       <link>https://fripig.github.io/article_log/tags/python/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/python/</guid>
       <description></description>
@@ -95,7 +113,7 @@
     <item>
       <title>Vue</title>
       <link>https://fripig.github.io/article_log/tags/vue/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/vue/</guid>
       <description></description>
