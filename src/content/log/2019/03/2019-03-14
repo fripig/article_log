@@ -1,0 +1,18 @@
+---
+title: "2019-03-14 推薦文章"
+date: 2019-03-14
+tags: [firefox,editor,vue,vuex,test,mock,web,go]
+---
+
+### [Easily and securely share files from the command line. A fully featured Firefox Send client. ](https://github.com/timvisee/ffsend)
+感覺可能會用到
+
+### [code-server](https://github.com/codercom/code-server)
+在公司內部架一個環境應急用好像蠻有趣的
+
+### [如何在 Component 內 Mock Mutation ?](https://oomusou.io/vue/unit-test/vuex/mock-mutation/)
+
+### [Web 应用安全性: 使用这些 HTTP 头保护 Web 应用](https://segmentfault.com/a/1190000018463035?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+為了安全要設定的東西不少
+
+### [golang防缓存击穿利器--singleflight](https://segmentfault.com/a/1190000018464029?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
