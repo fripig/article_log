@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fripig.github.io/article_log/log/2019/03/2019-03-14/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/log/2019/03/2019-03-13/</loc>
     <lastmod>2019-03-13T00:00:00+00:00</lastmod>
   </url>
@@ -45,14 +50,26 @@
   </url>
   
   <url>
+    <loc>https://fripig.github.io/article_log/tags/editor/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/tags/elasticsearch/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://fripig.github.io/article_log/tags/firefox/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/tags/go/</loc>
-    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -82,7 +99,13 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/log/</loc>
-    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/tags/mock/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -111,6 +134,12 @@
   </url>
   
   <url>
+    <loc>https://fripig.github.io/article_log/tags/test/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/tags/travis/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -118,13 +147,19 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/vue/</loc>
-    <lastmod>2019-03-12T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/vuex/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/tags/web/</loc>
+    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

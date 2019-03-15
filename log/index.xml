@@ -6,10 +6,22 @@
     <description>Recent content in Logs on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fripig.github.io/article_log/log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-03-14 推薦文章</title>
+      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-14/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-14/</guid>
+      <description> Easily and securely share files from the command line. A fully featured Firefox Send client.  感覺可能會用到
+code-server 在公司內部架一個環境應急用好像蠻有趣的
+如何在 Component 內 Mock Mutation ? Web 应用安全性: 使用这些 HTTP 头保护 Web 应用 為了安全要設定的東西不少
+golang防缓存击穿利器&amp;ndash;singleflight </description>
+    </item>
     
     <item>
       <title>2019-03-13 推薦文章</title>

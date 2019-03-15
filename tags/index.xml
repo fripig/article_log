@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Editor</title>
+      <link>https://fripig.github.io/article_log/tags/editor/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/editor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Elasticsearch</title>
       <link>https://fripig.github.io/article_log/tags/elasticsearch/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
@@ -39,9 +48,18 @@
     </item>
     
     <item>
+      <title>Firefox</title>
+      <link>https://fripig.github.io/article_log/tags/firefox/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/firefox/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Go</title>
       <link>https://fripig.github.io/article_log/tags/go/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/go/</guid>
       <description></description>
@@ -84,6 +102,15 @@
     </item>
     
     <item>
+      <title>Mock</title>
+      <link>https://fripig.github.io/article_log/tags/mock/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/mock/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Mysql</title>
       <link>https://fripig.github.io/article_log/tags/mysql/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
@@ -102,6 +129,15 @@
     </item>
     
     <item>
+      <title>Test</title>
+      <link>https://fripig.github.io/article_log/tags/test/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Travis</title>
       <link>https://fripig.github.io/article_log/tags/travis/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
@@ -113,7 +149,7 @@
     <item>
       <title>Vue</title>
       <link>https://fripig.github.io/article_log/tags/vue/</link>
-      <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/vue/</guid>
       <description></description>
@@ -122,9 +158,18 @@
     <item>
       <title>Vuex</title>
       <link>https://fripig.github.io/article_log/tags/vuex/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/vuex/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>https://fripig.github.io/article_log/tags/web/</link>
+      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/web/</guid>
       <description></description>
     </item>
     
