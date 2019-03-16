@@ -1,0 +1,18 @@
+---
+title: "2019-03-15 推薦文章"
+date: 2019-03-15
+tags: [python,Jupyter,CICD,mysql,binlog]
+---
+
+1. [自学是门手艺](https://github.com/selfteaching/the-craft-of-selfteaching)
+作者自學Python的過程寫成書
+內容是用Jupyter寫的也蠻有趣的
+可以直接跑Demo
+
+2. [10 Steps to Set Up Your Python Project for Success](https://towardsdatascience.com/10-steps-to-set-up-your-python-project-for-success-14ff88b5d13)
+一陣子沒寫python了
+還是加減看看維持基本知識比較好
+
+3. [把 MySQL 的 binlog 功能再拆出來的 mysql-ripple](https://blog.gslin.org/archives/2019/03/16/8833/%E6%8A%8A-mysql-%E7%9A%84-binlog-%E5%8A%9F%E8%83%BD%E5%86%8D%E6%8B%86%E5%87%BA%E4%BE%86%E7%9A%84-mysql-ripple/)
+可以從binlog做出read only的master
+感覺是蠻有趣的啦
