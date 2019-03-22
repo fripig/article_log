@@ -61,5 +61,6 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 .idea
-resources/_gen/
+resources/_gen/**
+
 
