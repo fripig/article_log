@@ -6,10 +6,27 @@
     <description>Recent content in Logs on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Thu, 14 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://fripig.github.io/article_log/log/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>2019-03-22 推薦文章</title>
+      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-22/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-22/</guid>
+      <description>Istio1.1新特性之限制服务可见性 昨天讀書會群組才看到別人討論而已 紀錄一下
+Gitlab CI 与 Kubernetes 的结合-www.qikqiak.com|阳明的博客|Kubernetes|Docker|istio|Python|Golang|Cloud Native 個人認為gitlab-ci還是目前上手門檻比較低的CICD工具
+自动化测试：六个值得参考的 Laravel 开源项目 - 掘金 僅供參考
+在 WebStorm 中，配置能够识别 Vue CLI 3 创建的项目的别名 alias @ - 掘金 重點在留言 审查项目的-webpack-配置 看技術文章留言常會有些東西比本文還有用
+手摸手教你让 Laravel 开发 API 更得心应手 | Laravel China 社区 - 高品质的 Laravel 开发者社区 好長 有些想法值得參考
+gitignore.io - Create Useful .gitignore Files For Your Project 在沒用phpstorm的時候可以代替一下
+React Training: React Router v5 版本依賴沒弄好
+Scaling webapps for newbs &amp;amp; non-techies 大多網站都是這樣成長的吧
+html - RegEx match open tags except XHTML self-contained tags - Stack Overflow 很有趣的回答</description>
+    </item>
     
     <item>
       <title>2019-03-14 推薦文章</title>

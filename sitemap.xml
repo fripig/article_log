@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fripig.github.io/article_log/log/2019/03/2019-03-22/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/log/2019/03/2019-03-14/</loc>
     <lastmod>2019-03-14T00:00:00+00:00</lastmod>
   </url>
@@ -68,6 +73,18 @@
   </url>
   
   <url>
+    <loc>https://fripig.github.io/article_log/tags/git/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://fripig.github.io/article_log/tags/gitlab-ci/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/tags/go/</loc>
     <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -80,6 +97,12 @@
   </url>
   
   <url>
+    <loc>https://fripig.github.io/article_log/tags/istio/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/tags/javascript/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -87,7 +110,7 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/laravel/</loc>
-    <lastmod>2019-03-13T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -99,7 +122,7 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/log/</loc>
-    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,6 +151,12 @@
   </url>
   
   <url>
+    <loc>https://fripig.github.io/article_log/tags/react/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/tags/</loc>
     <lastmod>2019-03-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -135,7 +164,7 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/test/</loc>
-    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -152,6 +181,12 @@
   </url>
   
   <url>
+    <loc>https://fripig.github.io/article_log/tags/vue-cli/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://fripig.github.io/article_log/tags/vuex/</loc>
     <lastmod>2019-03-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -159,7 +194,7 @@
   
   <url>
     <loc>https://fripig.github.io/article_log/tags/web/</loc>
-    <lastmod>2019-03-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

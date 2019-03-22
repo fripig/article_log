@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Test on 這邊只是備份</title>
-    <link>https://fripig.github.io/article_log/tags/test/</link>
-    <description>Recent content in Test on 這邊只是備份</description>
+    <title>Git on 這邊只是備份</title>
+    <link>https://fripig.github.io/article_log/tags/git/</link>
+    <description>Recent content in Git on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fripig.github.io/article_log/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://fripig.github.io/article_log/tags/git/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -26,18 +26,6 @@ gitignore.io - Create Useful .gitignore Files For Your Project 在沒用phpstorm
 React Training: React Router v5 版本依賴沒弄好
 Scaling webapps for newbs &amp;amp; non-techies 大多網站都是這樣成長的吧
 html - RegEx match open tags except XHTML self-contained tags - Stack Overflow 很有趣的回答</description>
-    </item>
-    
-    <item>
-      <title>2019-03-14 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-14/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-14/</guid>
-      <description> Easily and securely share files from the command line. A fully featured Firefox Send client.  感覺可能會用到
-code-server 在公司內部架一個環境應急用好像蠻有趣的
-如何在 Component 內 Mock Mutation ? Web 应用安全性: 使用这些 HTTP 头保护 Web 应用 為了安全要設定的東西不少
-golang防缓存击穿利器&amp;ndash;singleflight </description>
     </item>
     
   </channel>

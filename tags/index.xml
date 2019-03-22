@@ -57,6 +57,24 @@
     </item>
     
     <item>
+      <title>Git</title>
+      <link>https://fripig.github.io/article_log/tags/git/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gitlab Ci</title>
+      <link>https://fripig.github.io/article_log/tags/gitlab-ci/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/gitlab-ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Go</title>
       <link>https://fripig.github.io/article_log/tags/go/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
@@ -75,6 +93,15 @@
     </item>
     
     <item>
+      <title>Istio</title>
+      <link>https://fripig.github.io/article_log/tags/istio/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/istio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Javascript</title>
       <link>https://fripig.github.io/article_log/tags/javascript/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
@@ -86,7 +113,7 @@
     <item>
       <title>Laravel</title>
       <link>https://fripig.github.io/article_log/tags/laravel/</link>
-      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/laravel/</guid>
       <description></description>
@@ -129,9 +156,18 @@
     </item>
     
     <item>
+      <title>React</title>
+      <link>https://fripig.github.io/article_log/tags/react/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Test</title>
       <link>https://fripig.github.io/article_log/tags/test/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/test/</guid>
       <description></description>
@@ -156,6 +192,15 @@
     </item>
     
     <item>
+      <title>Vue Cli</title>
+      <link>https://fripig.github.io/article_log/tags/vue-cli/</link>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/tags/vue-cli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Vuex</title>
       <link>https://fripig.github.io/article_log/tags/vuex/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
@@ -167,7 +212,7 @@
     <item>
       <title>Web</title>
       <link>https://fripig.github.io/article_log/tags/web/</link>
-      <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://fripig.github.io/article_log/tags/web/</guid>
       <description></description>
