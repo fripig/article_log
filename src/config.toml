@@ -4,6 +4,8 @@ defaultContentLanguage = "zh-TW"
 title = "這邊只是備份"
 theme = "cupper-hugo-theme"
 googleAnalytics = "UA-51024970-3"
+disqusShortname = "fripig_article_log"
+
 
 [taxonomies]
   tag = "tags"
