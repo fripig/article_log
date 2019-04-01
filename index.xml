@@ -12,6 +12,21 @@
     
     
     <item>
+      <title>2019-04-01 推薦文章</title>
+      <link>https://fripig.github.io/article_log/log/2019/04/2019-04-01/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fripig.github.io/article_log/log/2019/04/2019-04-01/</guid>
+      <description>关于技术选型方法论的探索 只有最適合 沒有最好
+MySQL慢查询优化 - 文野 主要是拿來紀錄java的那個工具
+纯CSS实现瀑布流，你会吗？ - 掘金 記得之前跟問學長好像說很麻煩 看這個雨法好像還好
+把HTML转成PDF的4个方案及实现方法 - 掘金 每次都會忘記這類工具 多紀錄幾次看會不會記得深一點
+Vue.js + Tone.js 开发Web钢琴应用 - 掘金 感覺有去
+Windows 10 無法 LISTEN Port 4200 與 Port 3000 的靈異事件整理 | The Will Will Web 有種以前好像也撞過這個牆的感覺
+使用 AWK 過濾不要的欄位 | Tsung&amp;rsquo;s Blog AWK真的很好用</description>
+    </item>
+    
+    <item>
       <title>2019-03-22 推薦文章</title>
       <link>https://fripig.github.io/article_log/log/2019/03/2019-03-22/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
