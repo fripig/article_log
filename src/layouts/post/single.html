@@ -30,6 +30,6 @@
       {{ partial "toc" . }}
     {{ end }}
     {{ .Content }}
-      {{ partial "disqus.html" . }}
+      {{ template "_internal/disqus.html" . }}
   </main>
 {{ end }}
