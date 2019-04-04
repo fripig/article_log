@@ -5,6 +5,7 @@ before_install:
   - docker pull jojomi/hugo
 script:
   - docker run --rm --publish-all --env-file .env --volume $TRAVIS_BUILD_DIR/src:/src --volume $TRAVIS_BUILD_DIR/docs:/output jojomi/hugo
+  - cp CNAME $TRAVIS_BUILD_DIR/docs
 deploy:
   provider: pages
   skip-cleanup: true
