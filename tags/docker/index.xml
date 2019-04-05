@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Docker on 這邊只是備份</title>
-    <link>http://log.fripig.tw/tags/docker/</link>
+    <link>https://log.fripig.tw/tags/docker/</link>
     <description>Recent content in Docker on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://log.fripig.tw/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://log.fripig.tw/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019-03-13 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-13/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-13/</link>
       <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-13/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-13/</guid>
       <description> laravel 批次刪除job的作法 可以指定queue去刪除還蠻方便的 但就個人使用上 是覺得應該找工具看能不能把指定queue的特定job migrate到其他的queue 這點之前還沒看到現成的
 为什么Python不用设计模式？ 標題有點誇張啦 只是不同語言有不同解法而已 但核心概念是一樣的 另外本文是寫的蠻有趣的
 影响Linux发展的四位天才黑客 使用go mod结合docker分层缓存进行自动CI/CD </description>
@@ -24,10 +24,10 @@
     
     <item>
       <title>2019-03-12 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-12/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-12/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-12/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-12/</guid>
       <description>干货 | Elasticsearch方案选型必须了解的10件事！ 內容簡潔 有講到重點 不過原因還是要自己補一下
 vue-cli3 项目框架优化(OneLine周分享) vue-cli3建立出來的環境還是要微調才會更緊湊 讓網頁讀取更快的
 AWS 對 Elastic Stack 實作免費的開源版本 Open Distro for Elasticsearch 期待
@@ -37,10 +37,10 @@ Docker volumes not mounted when using docker:dind 解決怎麼在gitlab-ci 使�
     
     <item>
       <title>玩一下hugo跟travis</title>
-      <link>http://log.fripig.tw/2019/03/hugo/</link>
+      <link>https://log.fripig.tw/2019/03/hugo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/2019/03/hugo/</guid>
+      <guid>https://log.fripig.tw/2019/03/hugo/</guid>
       <description>想說每天看的文章留於流水帳也不好
 所以乾脆就在這個git弄個網站擺著也好
 剛好最近看到有人說hugo編譯的很快

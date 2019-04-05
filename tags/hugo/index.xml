@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on 這邊只是備份</title>
-    <link>http://log.fripig.tw/tags/hugo/</link>
+    <link>https://log.fripig.tw/tags/hugo/</link>
     <description>Recent content in Hugo on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://log.fripig.tw/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://log.fripig.tw/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>玩一下hugo跟travis</title>
-      <link>http://log.fripig.tw/2019/03/hugo/</link>
+      <link>https://log.fripig.tw/2019/03/hugo/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/2019/03/hugo/</guid>
+      <guid>https://log.fripig.tw/2019/03/hugo/</guid>
       <description>想說每天看的文章留於流水帳也不好
 所以乾脆就在這個git弄個網站擺著也好
 剛好最近看到有人說hugo編譯的很快

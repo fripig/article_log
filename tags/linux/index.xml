@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux on 這邊只是備份</title>
-    <link>http://log.fripig.tw/tags/linux/</link>
+    <link>https://log.fripig.tw/tags/linux/</link>
     <description>Recent content in Linux on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://log.fripig.tw/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://log.fripig.tw/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019-03-13 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-13/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-13/</link>
       <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-13/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-13/</guid>
       <description> laravel 批次刪除job的作法 可以指定queue去刪除還蠻方便的 但就個人使用上 是覺得應該找工具看能不能把指定queue的特定job migrate到其他的queue 這點之前還沒看到現成的
 为什么Python不用设计模式？ 標題有點誇張啦 只是不同語言有不同解法而已 但核心概念是一樣的 另外本文是寫的蠻有趣的
 影响Linux发展的四位天才黑客 使用go mod结合docker分层缓存进行自动CI/CD </description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Logs on 這邊只是備份</title>
-    <link>http://log.fripig.tw/log/</link>
+    <link>https://log.fripig.tw/log/</link>
     <description>Recent content in Logs on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://log.fripig.tw/log/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://log.fripig.tw/log/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019-04-01 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/04/2019-04-01/</link>
+      <link>https://log.fripig.tw/log/2019/04/2019-04-01/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/04/2019-04-01/</guid>
+      <guid>https://log.fripig.tw/log/2019/04/2019-04-01/</guid>
       <description>关于技术选型方法论的探索 只有最適合 沒有最好
 MySQL慢查询优化 - 文野 主要是拿來紀錄java的那個工具
 纯CSS实现瀑布流，你会吗？ - 掘金 記得之前跟問學長好像說很麻煩 看這個雨法好像還好
@@ -28,10 +28,10 @@ Windows 10 無法 LISTEN Port 4200 與 Port 3000 的靈異事件整理 | The Wil
     
     <item>
       <title>2019-03-22 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-22/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-22/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-22/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-22/</guid>
       <description>Istio1.1新特性之限制服务可见性 昨天讀書會群組才看到別人討論而已 紀錄一下
 Gitlab CI 与 Kubernetes 的结合-www.qikqiak.com|阳明的博客|Kubernetes|Docker|istio|Python|Golang|Cloud Native 個人認為gitlab-ci還是目前上手門檻比較低的CICD工具
 自动化测试：六个值得参考的 Laravel 开源项目 - 掘金 僅供參考
@@ -45,10 +45,10 @@ html - RegEx match open tags except XHTML self-contained tags - Stack Overflow �
     
     <item>
       <title>2019-03-14 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-14/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-14/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-14/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-14/</guid>
       <description> Easily and securely share files from the command line. A fully featured Firefox Send client.  感覺可能會用到
 code-server 在公司內部架一個環境應急用好像蠻有趣的
 如何在 Component 內 Mock Mutation ? Web 应用安全性: 使用这些 HTTP 头保护 Web 应用 為了安全要設定的東西不少
@@ -57,10 +57,10 @@ golang防缓存击穿利器&amp;ndash;singleflight </description>
     
     <item>
       <title>2019-03-13 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-13/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-13/</link>
       <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-13/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-13/</guid>
       <description> laravel 批次刪除job的作法 可以指定queue去刪除還蠻方便的 但就個人使用上 是覺得應該找工具看能不能把指定queue的特定job migrate到其他的queue 這點之前還沒看到現成的
 为什么Python不用设计模式？ 標題有點誇張啦 只是不同語言有不同解法而已 但核心概念是一樣的 另外本文是寫的蠻有趣的
 影响Linux发展的四位天才黑客 使用go mod结合docker分层缓存进行自动CI/CD </description>
@@ -68,10 +68,10 @@ golang防缓存击穿利器&amp;ndash;singleflight </description>
     
     <item>
       <title>2019-03-12 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-12/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-12/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-12/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-12/</guid>
       <description>干货 | Elasticsearch方案选型必须了解的10件事！ 內容簡潔 有講到重點 不過原因還是要自己補一下
 vue-cli3 项目框架优化(OneLine周分享) vue-cli3建立出來的環境還是要微調才會更緊湊 讓網頁讀取更快的
 AWS 對 Elastic Stack 實作免費的開源版本 Open Distro for Elasticsearch 期待
@@ -81,10 +81,10 @@ Docker volumes not mounted when using docker:dind 解決怎麼在gitlab-ci 使�
     
     <item>
       <title>2019-03-11 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-11/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-11/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-11/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-11/</guid>
       <description>程序员写简历时必须注意的技术词汇拼写（持续更新&amp;hellip;） 其實個人覺得溝通會懂就好 老是挑這類問題對溝通沒啥幫助
 尤雨溪谈 Vue.js :缔造自由与真我 如果初學者問我要學哪套前端framework 我都會先推薦vue
 Laravel 下 Elasticsearch 使用 接下來可能會用到 所以備用
@@ -94,10 +94,10 @@ Vuex Unit Test：Action 難得有範例</description>
     
     <item>
       <title>2019-03-10 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-10/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-10/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-10/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-10/</guid>
       <description>【译】MySQL挑战：建立10万连接 雖然遇到的機會不大 但是會調的參數還算是蠻常遇到的
 PathFinding.js 視覺呈現看起來很有趣
 CriseLYJ/awesome-python-login-model 算是可以研究一些爬蟲的範例</description>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mysql on 這邊只是備份</title>
-    <link>http://log.fripig.tw/tags/mysql/</link>
+    <link>https://log.fripig.tw/tags/mysql/</link>
     <description>Recent content in Mysql on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://log.fripig.tw/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://log.fripig.tw/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019-04-01 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/04/2019-04-01/</link>
+      <link>https://log.fripig.tw/log/2019/04/2019-04-01/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/04/2019-04-01/</guid>
+      <guid>https://log.fripig.tw/log/2019/04/2019-04-01/</guid>
       <description>关于技术选型方法论的探索 只有最適合 沒有最好
 MySQL慢查询优化 - 文野 主要是拿來紀錄java的那個工具
 纯CSS实现瀑布流，你会吗？ - 掘金 記得之前跟問學長好像說很麻煩 看這個雨法好像還好
@@ -28,10 +28,10 @@ Windows 10 無法 LISTEN Port 4200 與 Port 3000 的靈異事件整理 | The Wil
     
     <item>
       <title>2019-03-12 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-12/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-12/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-12/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-12/</guid>
       <description>干货 | Elasticsearch方案选型必须了解的10件事！ 內容簡潔 有講到重點 不過原因還是要自己補一下
 vue-cli3 项目框架优化(OneLine周分享) vue-cli3建立出來的環境還是要微調才會更緊湊 讓網頁讀取更快的
 AWS 對 Elastic Stack 實作免費的開源版本 Open Distro for Elasticsearch 期待
@@ -41,10 +41,10 @@ Docker volumes not mounted when using docker:dind 解決怎麼在gitlab-ci 使�
     
     <item>
       <title>2019-03-10 推薦文章</title>
-      <link>http://log.fripig.tw/log/2019/03/2019-03-10/</link>
+      <link>https://log.fripig.tw/log/2019/03/2019-03-10/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://log.fripig.tw/log/2019/03/2019-03-10/</guid>
+      <guid>https://log.fripig.tw/log/2019/03/2019-03-10/</guid>
       <description>【译】MySQL挑战：建立10万连接 雖然遇到的機會不大 但是會調的參數還算是蠻常遇到的
 PathFinding.js 視覺呈現看起來很有趣
 CriseLYJ/awesome-python-login-model 算是可以研究一些爬蟲的範例</description>
