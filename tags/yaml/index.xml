@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yaml on 這邊只是備份</title>
-    <link>https://fripig.github.io/article_log/tags/yaml/</link>
+    <link>http://log.fripig.tw/tags/yaml/</link>
     <description>Recent content in Yaml on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fripig.github.io/article_log/tags/yaml/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://log.fripig.tw/tags/yaml/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019-03-11 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-11/</link>
+      <link>http://log.fripig.tw/log/2019/03/2019-03-11/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-11/</guid>
+      <guid>http://log.fripig.tw/log/2019/03/2019-03-11/</guid>
       <description>程序员写简历时必须注意的技术词汇拼写（持续更新&amp;hellip;） 其實個人覺得溝通會懂就好 老是挑這類問題對溝通沒啥幫助
 尤雨溪谈 Vue.js :缔造自由与真我 如果初學者問我要學哪套前端framework 我都會先推薦vue
 Laravel 下 Elasticsearch 使用 接下來可能會用到 所以備用

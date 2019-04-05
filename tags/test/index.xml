@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Test on 這邊只是備份</title>
-    <link>https://fripig.github.io/article_log/tags/test/</link>
+    <link>http://log.fripig.tw/tags/test/</link>
     <description>Recent content in Test on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Fri, 22 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fripig.github.io/article_log/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://log.fripig.tw/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019-03-22 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-22/</link>
+      <link>http://log.fripig.tw/log/2019/03/2019-03-22/</link>
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-22/</guid>
+      <guid>http://log.fripig.tw/log/2019/03/2019-03-22/</guid>
       <description>Istio1.1新特性之限制服务可见性 昨天讀書會群組才看到別人討論而已 紀錄一下
 Gitlab CI 与 Kubernetes 的结合-www.qikqiak.com|阳明的博客|Kubernetes|Docker|istio|Python|Golang|Cloud Native 個人認為gitlab-ci還是目前上手門檻比較低的CICD工具
 自动化测试：六个值得参考的 Laravel 开源项目 - 掘金 僅供參考
@@ -30,10 +30,10 @@ html - RegEx match open tags except XHTML self-contained tags - Stack Overflow �
     
     <item>
       <title>2019-03-14 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-14/</link>
+      <link>http://log.fripig.tw/log/2019/03/2019-03-14/</link>
       <pubDate>Thu, 14 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-14/</guid>
+      <guid>http://log.fripig.tw/log/2019/03/2019-03-14/</guid>
       <description> Easily and securely share files from the command line. A fully featured Firefox Send client.  感覺可能會用到
 code-server 在公司內部架一個環境應急用好像蠻有趣的
 如何在 Component 內 Mock Mutation ? Web 应用安全性: 使用这些 HTTP 头保护 Web 应用 為了安全要設定的東西不少

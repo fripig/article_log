@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aws on 這邊只是備份</title>
-    <link>https://fripig.github.io/article_log/tags/aws/</link>
+    <link>http://log.fripig.tw/tags/aws/</link>
     <description>Recent content in Aws on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Tue, 12 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fripig.github.io/article_log/tags/aws/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://log.fripig.tw/tags/aws/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019-03-12 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/03/2019-03-12/</link>
+      <link>http://log.fripig.tw/log/2019/03/2019-03-12/</link>
       <pubDate>Tue, 12 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fripig.github.io/article_log/log/2019/03/2019-03-12/</guid>
+      <guid>http://log.fripig.tw/log/2019/03/2019-03-12/</guid>
       <description>干货 | Elasticsearch方案选型必须了解的10件事！ 內容簡潔 有講到重點 不過原因還是要自己補一下
 vue-cli3 项目框架优化(OneLine周分享) vue-cli3建立出來的環境還是要微調才會更緊湊 讓網頁讀取更快的
 AWS 對 Elastic Stack 實作免費的開源版本 Open Distro for Elasticsearch 期待

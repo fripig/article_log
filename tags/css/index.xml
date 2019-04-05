@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Css on 這邊只是備份</title>
-    <link>https://fripig.github.io/article_log/tags/css/</link>
+    <link>http://log.fripig.tw/tags/css/</link>
     <description>Recent content in Css on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
     <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://fripig.github.io/article_log/tags/css/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://log.fripig.tw/tags/css/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>2019-04-01 推薦文章</title>
-      <link>https://fripig.github.io/article_log/log/2019/04/2019-04-01/</link>
+      <link>http://log.fripig.tw/log/2019/04/2019-04-01/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://fripig.github.io/article_log/log/2019/04/2019-04-01/</guid>
+      <guid>http://log.fripig.tw/log/2019/04/2019-04-01/</guid>
       <description>关于技术选型方法论的探索 只有最適合 沒有最好
 MySQL慢查询优化 - 文野 主要是拿來紀錄java的那個工具
 纯CSS实现瀑布流，你会吗？ - 掘金 記得之前跟問學長好像說很麻煩 看這個雨法好像還好
