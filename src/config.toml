@@ -1,4 +1,4 @@
-baseURL = "https://log.fripig.tw"
+baseURL = "http://log.fripig.tw"
 languageCode = "zh-TW"
 defaultContentLanguage = "zh-TW"
 title = "這邊只是備份"
