@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://log.fripig.tw/2019/04/hugo-disqus/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://log.fripig.tw/log/2019/04/2019-04-01/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
   </url>
@@ -66,6 +71,12 @@
   </url>
   
   <url>
+    <loc>https://log.fripig.tw/tags/disqus/</loc>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://log.fripig.tw/tags/docker/</loc>
     <lastmod>2019-03-13T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -115,7 +126,7 @@
   
   <url>
     <loc>https://log.fripig.tw/tags/hugo/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -169,7 +180,7 @@
   
   <url>
     <loc>https://log.fripig.tw/post/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-06T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

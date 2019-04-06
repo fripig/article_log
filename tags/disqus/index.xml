@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Disqus on 這邊只是備份</title>
+    <link>https://log.fripig.tw/tags/disqus/</link>
+    <description>Recent content in Disqus on 這邊只是備份</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Sat, 06 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://log.fripig.tw/tags/disqus/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>終於把hugo加上disqus了</title>
+      <link>https://log.fripig.tw/2019/04/hugo-disqus/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://log.fripig.tw/2019/04/hugo-disqus/</guid>
+      <description>卡了很久
+結果只是我沒注意到shortname跟Website Name是不一樣的
+為了這個問題也順手加上GA跟search console
+雖然應該沒人會看
+但是也加個加減觀察一下</description>
+    </item>
+    
+  </channel>
+</rss>

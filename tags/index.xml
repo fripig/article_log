@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>Disqus</title>
+      <link>https://log.fripig.tw/tags/disqus/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://log.fripig.tw/tags/disqus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Docker</title>
       <link>https://log.fripig.tw/tags/docker/</link>
       <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
@@ -113,7 +122,7 @@
     <item>
       <title>Hugo</title>
       <link>https://log.fripig.tw/tags/hugo/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://log.fripig.tw/tags/hugo/</guid>
       <description></description>

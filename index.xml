@@ -12,6 +12,19 @@
     
     
     <item>
+      <title>終於把hugo加上disqus了</title>
+      <link>https://log.fripig.tw/2019/04/hugo-disqus/</link>
+      <pubDate>Sat, 06 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://log.fripig.tw/2019/04/hugo-disqus/</guid>
+      <description>卡了很久
+結果只是我沒注意到shortname跟Website Name是不一樣的
+為了這個問題也順手加上GA跟search console
+雖然應該沒人會看
+但是也加個加減觀察一下</description>
+    </item>
+    
+    <item>
       <title>2019-04-01 推薦文章</title>
       <link>https://log.fripig.tw/log/2019/04/2019-04-01/</link>
       <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
