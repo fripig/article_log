@@ -6,10 +6,32 @@
     <description>Recent content in Mysql on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://log.fripig.tw/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>把linode上的mariadb資料 從ubuntu 1404 的主機 搬到ubuntu 1904下的mysql 5.7</title>
+      <link>https://log.fripig.tw/2019/08/linode/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://log.fripig.tw/2019/08/linode/</guid>
+      <description>起因 昨天收到幫朋友管的網站從晚上就開始連不上的消息
+中途發現mariadb的連線非常的慢
+加上系統老舊很多以前試過的怪東西
+想說與其把系統弄乾淨不如直接把資料搬出來
+弄到一個乾淨的系統比較快
+所以就用mysqldump把整個資料庫dump出來
+mysqldump -u root -p --all-databases &amp;gt; backup.sql;   參考來源
+ 再用scp 複製到新主機
+scp backup.sql myuser@192.168.0.1:/path/file2   參考來源
+ 接著匯入已經裝好mysql 5.7的系統就好了
+# mysql -u root -p &amp;lt; backup.sql   參考來源
+ 有時候與其釐清問題不如先快速恢復系統
+因為在我把系統弄好以後才收到linode的通知信
+Hello, Yesterday (August 20, 2019), we detected that there was an issue on the host on which your Linode resides. At around 15:00 (UTC -5), there was an emergency maintenance performed, resulting in short downtime for the Linodes on this host.</description>
+    </item>
     
     <item>
       <title>2019-04-01 推薦文章</title>
