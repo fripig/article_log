@@ -2,9 +2,9 @@ language: minimal
 services:
   - docker
 before_install:
-  - docker pull jojomi/hugo
+  - docker pull jojomi/hugo:0.53
 script:
-  - docker run --rm --publish-all --env-file .env --volume $TRAVIS_BUILD_DIR/src:/src --volume $TRAVIS_BUILD_DIR/docs:/output jojomi/hugo
+  - docker run --rm --publish-all --env-file .env --volume $TRAVIS_BUILD_DIR/src:/src --volume $TRAVIS_BUILD_DIR/docs:/output jojomi/hugo:0.53
   - cp CNAME $TRAVIS_BUILD_DIR/docs
 deploy:
   provider: pages
