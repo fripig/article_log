@@ -226,6 +226,12 @@
   </url>
   
   <url>
+    <loc>https://log.fripig.tw/tags/ubuntu/</loc>
+    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://log.fripig.tw/tags/vue/</loc>
     <lastmod>2019-04-01T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -264,12 +270,6 @@
   <url>
     <loc>https://log.fripig.tw/tags/yaml/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://log.fripig.tw/tags/%E5%BE%9Eubuntu/</loc>
-    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
