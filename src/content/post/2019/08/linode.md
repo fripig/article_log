@@ -1,7 +1,7 @@
 ---
 title: "把linode上的mariadb資料 從ubuntu 1404 的主機 搬到ubuntu 1904下的mysql 5.7"
 date: 2019-08-21
-tags: [linode,mysql,從ubuntu]
+tags: [linode,mysql,ubuntu]
 ---
 
 ## 起因
