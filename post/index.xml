@@ -6,10 +6,19 @@
     <description>Recent content in Posts on 這邊只是備份</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-TW</language>
-    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://log.fripig.tw/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>將一堆markdown整合成一個pdf</title>
+      <link>https://log.fripig.tw/2019/10/mdbook/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://log.fripig.tw/2019/10/mdbook/</guid>
+      <description>前天試著解決gitbook不能直接輸出pdf的問題 找了一下別的工具 後來找到這個mdbook 不過他也沒有輸出ＰＤＦ的功能 後來嘗試了很久才發現打開它輸出的網頁版直接按列印就好了 不用技術解</description>
+    </item>
     
     <item>
       <title>把linode上的mariadb資料 從ubuntu 1404 的主機 搬到ubuntu 1904下的mysql 5.7</title>
