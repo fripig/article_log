@@ -167,7 +167,7 @@
     <item>
       <title>Linode</title>
       <link>https://log.fripig.tw/tags/linode/</link>
-      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
       
       <guid>https://log.fripig.tw/tags/linode/</guid>
       <description></description>
@@ -242,6 +242,15 @@
       <pubDate>Fri, 22 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://log.fripig.tw/tags/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S3</title>
+      <link>https://log.fripig.tw/tags/s3/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://log.fripig.tw/tags/s3/</guid>
       <description></description>
     </item>
     
@@ -332,6 +341,15 @@
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://log.fripig.tw/tags/yaml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>對接cloudflare</title>
+      <link>https://log.fripig.tw/tags/%E5%B0%8D%E6%8E%A5cloudflare/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://log.fripig.tw/tags/%E5%B0%8D%E6%8E%A5cloudflare/</guid>
       <description></description>
     </item>
     

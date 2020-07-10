@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://log.fripig.tw/2020/07/linode-s3-cloudflare/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://log.fripig.tw/2019/10/mdbook/</loc>
     <lastmod>2019-10-26T00:00:00+00:00</lastmod>
   </url>
@@ -166,7 +171,7 @@
   
   <url>
     <loc>https://log.fripig.tw/tags/linode/</loc>
-    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -214,7 +219,7 @@
   
   <url>
     <loc>https://log.fripig.tw/post/</loc>
-    <lastmod>2019-10-26T00:00:00+00:00</lastmod>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -227,6 +232,12 @@
   <url>
     <loc>https://log.fripig.tw/tags/react/</loc>
     <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://log.fripig.tw/tags/s3/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -293,6 +304,12 @@
   <url>
     <loc>https://log.fripig.tw/tags/yaml/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://log.fripig.tw/tags/%E5%B0%8D%E6%8E%A5cloudflare/</loc>
+    <lastmod>2020-07-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

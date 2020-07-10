@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>對接cloudflare on 這邊只是備份</title>
+    <link>https://log.fripig.tw/tags/%E5%B0%8D%E6%8E%A5cloudflare/</link>
+    <description>Recent content in 對接cloudflare on 這邊只是備份</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-TW</language>
+    <lastBuildDate>Fri, 10 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://log.fripig.tw/tags/%E5%B0%8D%E6%8E%A5cloudflare/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>linode Object Storage 對接cloudflare</title>
+      <link>https://log.fripig.tw/2020/07/linode-s3-cloudflare/</link>
+      <pubDate>Fri, 10 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://log.fripig.tw/2020/07/linode-s3-cloudflare/</guid>
+      <description>因為最近的案子把主機架在linode上
+所以就想說用用看linode的Object Storage看看
+不過在使用上遇到一點小問題
+連線跟上傳都沒啥問題 不過在接cloudflare的時候
+老是遇到bucketnotfonud的問題
+後來的解決方法就是建立一個跟網域一樣的bucket就好了
+很詭異 但至少可以解</description>
+    </item>
+    
+  </channel>
+</rss>
